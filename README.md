@@ -1,4 +1,4 @@
 # Micros_II
-IDESI 
+IDESI 7K
 Microcontroladores y Micropocesadores II
 Source codes
